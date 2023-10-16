@@ -1,0 +1,9 @@
+[submodule "Programming-Lab-5"]
+	path = Programming-Lab-5
+	url = git@github.com:aleksei-edu/Programming-Lab-5.git
+[submodule "Programming-Lab-6"]
+	path = Programming-Lab-6
+	url = git@github.com:aleksei-edu/Programming-Lab-6.git
+[submodule "Programming-Lab-7"]
+	path = Programming-Lab-7
+	url = git@github.com:aleksei-edu/Programming-Lab-7.git
